@@ -1,0 +1,11 @@
+To use the GUI program, open the GUIMain class and run it.
+From there, click on load image.
+Below the I/O section is the Operation section and there are the operations that the program
+supports.
+Operations: Red, Green, Blue, Intensity, Luma, Value, Greyscale, Sepia, Brighten,
+Blur, Sharpen, Vertical-flip, and Horizontal-flip are supported by the program.
+After the desired operations are performed, go back to the I/O section and save the image.
+
+
+To use the code in terminal, locate the jar in the res folder and then type
+java -jar Assignment6GUI.jar.

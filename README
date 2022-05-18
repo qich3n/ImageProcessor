@@ -1,0 +1,20 @@
+The image for this assignment was taken from the website
+https://bomanite.com/512x512-png-landscape-texture-sunrise-lake/.
+The program supports the following features of loading an image, and
+saving an image. Along with these features, it supports the features
+of Color Transformation, Brighten, Blur, Sharpen, Vertical Flip and Horizontal Flip.
+Overall, the code was updated so that it supports the implementation of GUI and
+in order to do this, additional classes (AbstractControllerImpl, ConsoleControllerImpl)
+were added. The view class was also changed where it is now
+HistogramViewImpl and ImageViewImpl and in both instances, the premise is to create the
+viewable object for the program whether it be the operation buttons or the
+histogram.
+
+The citation for the image is:
+“512×512 PNG Landscape Texture – Sunrise Lake.”
+Bomanite, 6 Mar. 2015, https://bomanite.com/512x512-png-landscape-texture-sunrise-lake/.
+
+To use the script portion of the code, type commands such as
+load example.ppm ex
+save ex.ppm ex
+
